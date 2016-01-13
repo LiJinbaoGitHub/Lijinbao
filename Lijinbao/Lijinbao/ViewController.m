@@ -19,6 +19,12 @@
     
     NSLog(@"WoEle");
     NSLog(@"wo e l");
+    NSLog(@"WoEle");
+    NSLog(@"WoEle");
+    NSLog(@"WoEle");
+    NSLog(@"WoEle");
+    NSLog(@"WoEle");
+
 }
 
 - (void)didReceiveMemoryWarning {
